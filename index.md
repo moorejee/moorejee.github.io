@@ -1,5 +1,5 @@
 ## List to Read -- updated on 2023/08/07
-- 1 《数据结构与算法分析 Java语言描述》
+- 1 《数据结构与算法分析 Java语言描述》 (0807--0812)
 
 ## Welcome to GitHub Pages
 
